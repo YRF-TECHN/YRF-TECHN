@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Data Analyst
 ------------
-🧨
+
 A Data Analyst specializing in Excel and Power BI focuses on interpreting and analyzing data to support decision-making within an organization. Their expertise in these tools allows them to manage, visualize, and report on data effectively.
 
 * 🌍  I'm based in Abuja
